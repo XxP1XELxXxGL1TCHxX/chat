@@ -1,0 +1,19 @@
+{
+  "name": "Millionaire Chat",
+  "short_name": "M Chat",
+  "description": "Millionaire Productions private chat room.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#07080b",
+  "theme_color": "#08090d",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
